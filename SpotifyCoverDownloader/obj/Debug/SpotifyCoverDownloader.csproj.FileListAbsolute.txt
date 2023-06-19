@@ -1,0 +1,12 @@
+D:\PERSONAL PROJECT\Desktop\Test\SpotifyCoverDownloader\SpotifyCoverDownloader\bin\Debug\SpotifyCoverDownloader.exe.config
+D:\PERSONAL PROJECT\Desktop\Test\SpotifyCoverDownloader\SpotifyCoverDownloader\bin\Debug\SpotifyCoverDownloader.exe
+D:\PERSONAL PROJECT\Desktop\Test\SpotifyCoverDownloader\SpotifyCoverDownloader\bin\Debug\SpotifyCoverDownloader.pdb
+D:\PERSONAL PROJECT\Desktop\Test\SpotifyCoverDownloader\SpotifyCoverDownloader\bin\Debug\Newtonsoft.Json.dll
+D:\PERSONAL PROJECT\Desktop\Test\SpotifyCoverDownloader\SpotifyCoverDownloader\bin\Debug\Newtonsoft.Json.pdb
+D:\PERSONAL PROJECT\Desktop\Test\SpotifyCoverDownloader\SpotifyCoverDownloader\bin\Debug\Newtonsoft.Json.xml
+D:\PERSONAL PROJECT\Desktop\Test\SpotifyCoverDownloader\SpotifyCoverDownloader\obj\Debug\SpotifyCoverDownloader.csprojResolveAssemblyReference.cache
+D:\PERSONAL PROJECT\Desktop\Test\SpotifyCoverDownloader\SpotifyCoverDownloader\obj\Debug\SpotifyCoverDownloader.frmDownloader.resources
+D:\PERSONAL PROJECT\Desktop\Test\SpotifyCoverDownloader\SpotifyCoverDownloader\obj\Debug\SpotifyCoverDownloader.Properties.Resources.resources
+D:\PERSONAL PROJECT\Desktop\Test\SpotifyCoverDownloader\SpotifyCoverDownloader\obj\Debug\SpotifyCoverDownloader.csproj.GenerateResource.Cache
+D:\PERSONAL PROJECT\Desktop\Test\SpotifyCoverDownloader\SpotifyCoverDownloader\obj\Debug\SpotifyCoverDownloader.exe
+D:\PERSONAL PROJECT\Desktop\Test\SpotifyCoverDownloader\SpotifyCoverDownloader\obj\Debug\SpotifyCoverDownloader.pdb
