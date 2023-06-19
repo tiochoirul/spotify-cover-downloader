@@ -1,2 +1,2 @@
-# spotify-cover-downloader
+# Spotify Cover Downloader
 Spotify Album Cover Downloader
